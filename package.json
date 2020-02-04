@@ -10,7 +10,7 @@
     "monitor": "node --inspect ./src"
   },
   "engines": {
-    "node": "^12.14.1"
+    "node": ">=12.14.1"
   },
   "dependencies": {},
   "devDependencies": {
